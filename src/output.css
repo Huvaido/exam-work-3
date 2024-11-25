@@ -738,6 +738,10 @@ video {
   height: 550px;
 }
 
+.h-\[323px\] {
+  height: 323px;
+}
+
 .w-\[120px\] {
   width: 120px;
 }
@@ -872,6 +876,10 @@ video {
 
 .w-\[50px\] {
   width: 50px;
+}
+
+.w-\[342px\] {
+  width: 342px;
 }
 
 .content-center {
