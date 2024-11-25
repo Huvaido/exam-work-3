@@ -930,6 +930,22 @@ video {
   width: ;
 }
 
+.w-\[152px\] {
+  width: 152px;
+}
+
+.w-\[36px\] {
+  width: 36px;
+}
+
+.w-\[70\%\] {
+  width: 70%;
+}
+
+.w-\[92px\] {
+  width: 92px;
+}
+
 .content-center {
   align-content: center;
 }
