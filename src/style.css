@@ -14,6 +14,38 @@
     border: 1px solid white;
     padding: 10px;
 }
+.all10{
+    background-image: url(./Page7/surato/OSK1.png);
+    width: 390px;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.all11{
+    background-image: url(./Page7/surato/OSK2.png);
+    width: 390px;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.all12{
+    background-image: url(./Page7/surato/OSK3.jpg);
+    width: 390px;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.all5{
+    background-image: url(./Page7/surato/BG_MAKBOOKK.jpg);
+    width: 390px;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px;
+}
 .all3{
     background-image: url(../surato/bg3.png);
     width: 390px;
@@ -21,4 +53,18 @@
     border-radius: 4px;
     border: 1px solid white;
     padding: 10px;
+}
+.all6{
+    background-image: url(./Page7/surato/all7.jpg);
+    width: 80%;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 10px;
+}
+@media(max-width:510px){
+    .all6{
+        width: 100%;
+        background-position: center;
+    }
 }
